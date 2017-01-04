@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Yan</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">实用短语</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">数字</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Fra">法语</string>
+    <string name="Ger">德语</string>
+    <string name="Spa">西班牙语</string>
+    <string name="Jpa">日语</string>
+    <string name="Kor">韩语</string>
+    <string name="chose">请选择您想学习的语言</string>
+    <string name="title_activity_word">WordActivity</string>
+</resources>
